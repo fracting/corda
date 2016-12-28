@@ -1,0 +1,4 @@
+build_script:
+  - gradlew.bat assemble
+  - gradlew.bat build
+  - gradlew.bat install
